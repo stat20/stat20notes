@@ -1,0 +1,15 @@
+---
+title: Untitled
+format: stat20notes-html
+author: andrewpbray
+date: last-modified
+---
+
+## Introduction
+
+here are the notes
+
+## More Information
+
+You can learn more about controlling the appearance of HTML output here: <https://quarto.org/docs/output-formats/html-basics.html>
+
