@@ -12,3 +12,5 @@ contributes:
       include-in-header:
       - text: |
           <script src="collapsing-sidebar-sections.js"></script>
+      format-resources:
+        - "collapsing-sidebar-sections.js"
