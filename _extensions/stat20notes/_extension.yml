@@ -10,8 +10,8 @@ contributes:
       published-title: "class date"
       reference-location: document
       other-links:
-      - text: Slides
-        href: slides.html
-        icon: file-slides-fill
-      filters:
-        - stat20notes.lua
+        - text: Slides
+          href: slides.html
+          icon: file-slides-fill
+      # filters:
+      #   - stat20notes.lua
