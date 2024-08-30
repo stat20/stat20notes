@@ -4,7 +4,3 @@ quarto.doc.add_html_dependency({
   version = "1.0.0",
   scripts = {"collapsing-sidebar-sections.js"}
 })
-
---return {
---  Pandoc = add_dependencies
---}
