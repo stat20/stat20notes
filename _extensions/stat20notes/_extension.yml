@@ -13,8 +13,5 @@ contributes:
       - text: Slides
         href: slides.html
         icon: file-slides-fill
-      include-in-header:
-      - text: |
-          <script src="collapsing-sidebar-sections.js"></script>
-      format-resources:
-        - "collapsing-sidebar-sections.js"
+      filters:
+        - stat20notes.lua
