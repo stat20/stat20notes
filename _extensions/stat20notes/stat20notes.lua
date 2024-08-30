@@ -1,6 +1,6 @@
 
 quarto.doc.add_html_dependency({
-  name = "collapsing-sidebar-sections",
+  name = "stat20notes",
   version = "1.0.0",
-  scripts = {"collapsing-sidebar-sections.js"}
+  scripts = {"stat20notes.js"}
 })
