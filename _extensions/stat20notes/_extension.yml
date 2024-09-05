@@ -10,6 +10,8 @@ contributes:
       published-title: "class date"
       reference-location: document
       bread-crumbs: false
+      execute:
+        echo: false
       other-links:
         - text: Slides
           href: slides.html
